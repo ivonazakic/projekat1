@@ -10,7 +10,7 @@
 /* Basic */
 
 	body {
-		background: #fff;
+		background: #fft;
 	}
 
 		body.is-loading * {
@@ -52,12 +52,12 @@
 		}
 
 	strong, b {
-		color: #545404;
+		color: #545402;
 		font-weight: 700;
 	}
 
 	em, i {
-		font-style: italic;
+		font-style: bold;
 	}
 
 	p {
